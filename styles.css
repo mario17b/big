@@ -1,0 +1,27 @@
+div#big {
+	color: grey;
+	text-align: center;
+	font-size: 3em;
+	border-style: solid;
+	background-image: url("images/earth.jpg") ; 
+}
+div#navbar {
+	color: grey;
+	text-align: center;
+	font-size: 25px;
+	word-spacing: 20px;
+	display: block;
+}
+div#main  {
+
+}
+
+div#content {
+	height: 500px;
+}
+
+body {
+	background-color: E1F0F5;
+}
+
+
